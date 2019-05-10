@@ -5,7 +5,7 @@ from gtts import gTTS
 import os 
   
 # The text that you want to convert to audio 
-mytext = 'hello google how are you? i am fine'
+mytext = 'hey google do you know Busigence Technologies? yes its best in class'
   
 # Language in which you want to convert 
 language = 'en'
